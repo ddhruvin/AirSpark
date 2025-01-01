@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
+- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Replicate results](#replicate-results)
 ## Introduction
@@ -21,6 +22,14 @@ The project is designed with the following components:
 - **Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
 - **Apache Spark**: For data processing with its master and worker nodes.
 - **Cassandra**: Where the processed data will be stored.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/72c46103-4d78-42ef-bc79-abdf71c24b54)
+![image](https://github.com/user-attachments/assets/11ccc73b-8d5b-4a0e-8fc3-8b5515de714e)
+![image](https://github.com/user-attachments/assets/5d8cbe73-e645-4052-ba4c-c16ed4f24cdc)
+
+
+
 
 ## Technologies
 
